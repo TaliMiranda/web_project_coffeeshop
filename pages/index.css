@@ -1,0 +1,20 @@
+
+.page {
+    margin: 0 auto; 
+    max-width: 1600px; 
+    min-width: 1100px; 
+    width: 100%; 
+    padding: 20px; 
+    box-sizing: border-box; 
+    font-family: 'Inter', Arial, sans-serif;
+    font-size: 16px;
+    line-height: 20px;
+}
+
+body {
+    font-family: 'Inter', Arial, sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Noto Serif', 'Times New Roman', serif;
+}
