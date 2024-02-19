@@ -28,7 +28,7 @@
     z-index: 1;    
 }
 
-.span-accent {
+.header__span-accent {
     font-family: "Noto Serif", 'Times New Roman', Times, serif ;
     font-style: italic;
     font-weight: normal;
