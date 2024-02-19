@@ -1,0 +1,2 @@
+# Ignora o arquivo normalize.css dentro da pasta vendor
+vendor/normalize.css
