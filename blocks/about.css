@@ -1,0 +1,45 @@
+.about {
+    background-color: #0A2850;
+    color:white;
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+}
+
+.about__title {
+    font-family: "Inter", Arial;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 44px;
+    line-height: 52px;
+    margin-top: 100px;
+    margin-left: 80px;
+    z-index: 1;
+    max-width: 251px;
+}
+
+.about__content {
+    font-family: "Noto Serif", Times;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 30px;
+    margin: 119px 80px 113px 20px;
+    max-width: 660px;
+}
+
+.about__paragraph {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.about__circle {
+    top: -152px;
+    left: -129px;
+    position: absolute;
+    border-radius: 50%;
+    z-index: 0;
+    width: 426px;
+    height: 426px;
+    background-color: #2f80ed;
+}
